@@ -1,0 +1,4 @@
+Shortening
+
+Shortening is a sample application used to explore working with Sinatra and MongoMapper.
+Shortening features link shortening, modular link mapping, and general viewer statistics.
